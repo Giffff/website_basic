@@ -1,0 +1,100 @@
+.header{
+    background-color: BLACK;
+    width:100%;
+    height: 85px;
+}
+body {
+    display: block;
+    margin: 0px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif ;
+}
+.logo{
+    width: 50%;
+    padding-top:40px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: rgb(255, 240, 240);
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 170px;
+    
+}
+.login-label{
+    color: #ffff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color:#9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color:#ffff;
+    height: 20px;
+    border-color:#29487d;
+    cursor:pointer;
+}
+.sub-btn:hover{
+    background-color: red;
+}
+.left-section{
+    width:50%;
+    float: left;
+    padding-left: 159px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 35%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width:100%;
+    height:642px;
+}
+.image{
+    width: 590px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.para-right{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:15px;
+}
+.fn{
+    float: left;
+}
+.sn{
+    float: left;
+    margin-left: 10px;
+    margin-right: 30 px;
+}
+
+.new-section{
+    width: 35%;
+    float: left;
+    margin-bottom: 200 px;
+}
+
+.day{
+    padding-left: 40 px;
+}
+.button{
+    background-color: red;
+}
